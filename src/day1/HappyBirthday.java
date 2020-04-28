@@ -8,6 +8,11 @@ public class HappyBirthday {
         boolean annoying = true;
         if( annoying ==true){
          System.out.println("We do everything same all the time");
+            
+            //blin
+            //not
+            System.out.println("We do everything same all the time");
+            
         }
         
        
