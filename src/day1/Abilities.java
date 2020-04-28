@@ -15,7 +15,7 @@ public class Abilities {
         }
         
         
-        //This class its a vaste of time
+        //This class its a vast of time
     }
 
 
