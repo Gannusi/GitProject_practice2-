@@ -12,6 +12,7 @@ public class HappyBirthday {
             
             //blin
             //not
+            System.out.println("We do everything same all the time");
             
         }
         
